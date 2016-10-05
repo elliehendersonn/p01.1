@@ -39,7 +39,6 @@ def bobs_change(money):
     elif money == 50:
         print(0)
 
-
     else:
         print(money-50)
         

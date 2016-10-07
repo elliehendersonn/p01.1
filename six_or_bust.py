@@ -26,6 +26,21 @@ def run_tests():
 
 
 # Edit this function:
-def gone_bust(n):
+def gone_bust(bust):
+  
 
+     if bust < 6:
+        print( "HELP! HELP!")
 
+     elif bust == 6:
+         print ( "Pheww!")
+
+     elif bust > 6:
+         print ( "HELP! HELP!" )
+         
+        
+
+     
+     
+ 
+    
